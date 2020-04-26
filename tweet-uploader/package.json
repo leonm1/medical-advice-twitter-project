@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"@tensorflow/tfjs-node-gpu": "^1.7.2",
+		"concatjson": "^2.0.1",
+		"eslint": "^6.8.0",
+		"eslint-config-airbnb": "^18.1.0",
+		"eslint-plugin-jsx-a11y": "^6.2.3",
+		"express": "^4.17.1",
+		"mongodb": "^3.5.6",
+		"node-jsonl": "^0.1.0",
+		"progress": "^2.0.3",
+		"yargs": "^15.3.1"
+	},
+	"type": "module"
+}
